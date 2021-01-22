@@ -85,7 +85,7 @@ For each Lab, we publish a detailed answer sketch (typically at noon on the day 
 - Lab submissions received after the answer sketch is published at noon Tuesday but within one week of the deadline will receive a late penalty of 25% of available points.
 - Lab submissions received more than one week after the deadline will not be graded.
 
-## Creating a Lab Grade
+### Calculating Your Overall Lab Grade
 
 To calculate your lab grade, Dr. Love will use the four labs (out of the first five) on which you have the highest score, dropping the lab with the lowest score. The remaining four labs are weighted equally in determining your lab grade.
 
@@ -95,22 +95,23 @@ To calculate your lab grade, Dr. Love will use the four labs (out of the first f
 
 The sixth lab is optional, and is graded differently, as is described in the instructions for Lab 06.
 
-### Appeal Policy - Request a Review in May!
+## Appeal Policy and Regrades
 
-Clarification of concerns related to potential typographical or other errors in our Lab answer sketches is welcome at any time, but haggling over points on assignments can be a real time sink in a large class. To that end, students are **requested not to dispute** any grading on Labs during the semester, but instead to request a review using a Google Form to be opened by Professor Love in May. 
+Clarification of concerns related to potential typographical or other errors in our Lab answer sketches is welcome at any time, but haggling over points on assignments can be a real time sink in a large class. 
 
-Should you receive a lower grade on a Lab than you feel you deserve based on the feedback the TA provides, the answer sketch and the grading rubric, you can submit a request for a regrade by Professor Love by submitting a request through a Google Form he will provide to you.
+To that end, students are **requested not to dispute** any grading on Labs during the semester. 
 
-- On the [course Labs page](https://github.com/THOMASELOVE/432-2021/tree/master/labs), we include a section about Grading Errors and Regrade Requests. There, you'll find a link to a Google form (you must log into Google via CWRU to see it) listing all of the Labs. Any student who wishes to dispute points can specify the number of points in question for each item, and the details of the issues that concern them. 
-    - If you wish to dispute a grade, fill out the form at any time before the deadline in May. You can edit the form after submitting it so that you can add additional requests up until the end of the semester.
-    - All forms must be submitted by the deadline in December specified on the Course Calendar.
-    - Disputing a grade on a homework with a teaching assistant is pointless. 
-    - Professor Love is responsible for all final grading decisions, and if you have a concern, you should submit your request through the form.
-    
-Students are welcome to ask questions of Professor Love about grading during the term. The TAs and Professor Love are happy to discuss in a general sense any questions about an assignment, but no grades will be changed until the end of the term. 
-    - The one exception is if there is a mistake in adding up points, or some similar clerical error. If you find such an issue, please bring it to Professor Love's attention via email, and such problems will be corrected immediately.
+Should you receive a lower grade on a Lab than you feel you deserve based on the feedback the TA provides, the answer sketch and the grading rubric, you can simply submit a request for a regrade by Professor Love through the Google Form found at http://bit.ly/432-2021-lab-regrade-requests. You must log into Google via CWRU to see the form.
 
 In mid-May, **after** Professor Love has worked out what letter grade to give each student, he will go through the requests on the form and determine for each whether the student's letter grade would change if all of the points in dispute were granted. If the answer is no, then he won't even look at the disputed grade(s). If the answer is yes, then he will look very carefully to see if enough extra points are merited to change a grade. (It will not help your case to submit frivolous requests.)
+
+- On the [course Labs page](https://github.com/THOMASELOVE/432-2021/tree/master/labs), we include a section about Grading Errors and Regrade Requests repeating this information. 
+    - If you wish to dispute a grade, fill out the form at any time before the deadline in May. You can edit the form after submitting it so that you can add additional requests up until the end of the semester.
+    - All forms must be submitted by the deadline on the Course Calendar.
+    - Professor Love is responsible for all final grading decisions, and if you have a concern, you should submit your request through the form.
+    
+The TAs and Professor Love are happy to discuss in a general sense any questions about an assignment, but no grades will be changed until the end of the term. 
+    - The one exception is if there is a mistake in adding up points, or some similar clerical error. If you find such an issue, please bring it to Professor Love's attention via email, and he will resolve it immediately.
 
 The main advantage of this system is that it saves all of us the hassle of haggling over points that are never going to mean anything anyway. It also provides "equal access" to students who are too timid to express their concerns. Finally, if there is an issue with grading a particular problem or assignment that needs to be reconsidered, Professor Love will have access to all papers and can make a universal decision. Incidentally, this idea comes from Jessica Utts at http://www.amstat.org/publications/jse/v22n2/rossmanint.pdf.
 
@@ -179,7 +180,7 @@ The course grade is based on four key areas of demonstrated accomplishment.
 Course grades are based primarily on performance on labs, projects and quizzes. Your grade on each of these three elements will be determined separately. Then I will combine these elements as follows:
 
 Element | Weight 1 | Weight 2 | Weight 3 | Weight 4
-------- | -------- | -------- | -------- | --------
+------- | :--------: | :--------: | :--------: | :--------:
 Labs | 35% | 30% | 25% | -
 Projects | 45% | 40% | 35% | -
 Quizzes | 25% | 20% | 15% | -

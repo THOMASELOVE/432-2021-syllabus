@@ -1,5 +1,21 @@
 # Course Policies
 
+## Emergency Policy
+
+If you need to miss one session, or even two, just review the materials (including the recordings) and move on, and please feel encouraged to ask for help.
+
+If an emergency arises that will keep you from timely completion of a lab, a project or a quiz, send an email directly to Dr. Love saying the following:
+
+> I have an emergency that will keep me from completing (*list things you're worried about completing*) in a timely fashion. I will contact you again when I am able to make plans.
+
+- Dr. Love will respond with "OK" and temporarily excuse you from things until **you** send a "re-connection" email to make plans for making up the work you missed, at which time he'll evaluate the situation and together you can make that plan. At no time do you owe us any information about your health or the nature of the emergency.
+
+## Regrade Policy
+
+Grades on projects and quizzes are completed by Dr. Love. For labs, TAs do all grading. Students are **requested not to dispute** any grading on Labs during the semester. Instead, should you receive a lower grade on a Lab than you feel you deserve based on the feedback the TA provides, the answer sketch and the grading rubric, you should submit a request for a regrade by Professor Love through the Google Form found at http://bit.ly/432-2021-lab-regrade-requests. You must log into Google via CWRU to see the form.
+
+## Other Course Policies
+
 1. Any concerns or questions regarding these general policies, the teaching assistants or the course itself should be directed to Professor Love, if at all possible.
 2. All student work is subject to the University's policies and procedures. 
 3. **Registration is required**. I do not permit anyone to audit the course who has not previously taken it, without exception. If you've taken the course before and want to sit in again, you will need to volunteer or be hired as a teaching assistant.

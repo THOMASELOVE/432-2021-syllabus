@@ -52,8 +52,8 @@ participation
 labs
 a-few-tips-for-early-lab-work
 grading-labs
-creating-a-lab-grade
-appeal-policy---request-a-review-in-may
+calculating-your-overall-lab-grade
+appeal-policy-and-regrades
 quizzes
 piazza-and-the-quizzes
 about-the-quizzes
@@ -62,6 +62,9 @@ projects
 grading-the-projects
 final-grade
 course-policies
+emergency-policy
+regrade-policy
+other-course-policies
 frequently-asked-questions
 can-i-audit-the-course
 is-it-possible-to-take-the-course-passfail
