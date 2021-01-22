@@ -2,25 +2,46 @@
 
 ## Before our First Class
 
-Most of you have already accessed [the pre-class website](https://431-2020-preclass-love.netlify.app/). Once class begins, that will no longer be relevant, and will be replaced by [our main course website](https://thomaselove.github.io/431/) and (among other things) this Syllabus. If you're seeing this before class starts on 2020-08-25, then make sure that you:
+If you're seeing this before class starts on 2021-02-02, then make sure that you:
 
 1. Register and enroll in the course via the [CWRU Student Information System (SIS)](https://sis.case.edu/).
-    - Note that PQHS 431, CRSP 431 and MPHP 431 are all identical.
-2. Review [the pre-class website](https://431-2020-preclass-love.netlify.app/) and this syllabus. The most important needs initially are learning [about the books][Required Texts] you'll need to purchase, and [the software][Getting the Software] you'll need to install. 
-3. Review [CWRU's Knowledge Base for Zoom](https://case.edu/utech/help/knowledge-base/zoom/zoom-information) to ensure you can join our first class through your CWRU Zoom account. Watch your CWRU email for further bulletins (including the Zoom links for the first few class sessions which will be posted on 2020-08-24.)
+    - Note that PQHS 432, CRSP 432 and MPHP 432 are all identical. Students outside of the CRSP and MPH programs should enroll in PQHS 432.
+2. Review [CWRU's Knowledge Base for Zoom](https://case.edu/utech/help/knowledge-base/zoom/zoom-information) to ensure you can join our first class through your CWRU Zoom account. Watch your CWRU email for further bulletins. The Zoom link for the class sessions is available now via [Canvas](https://canvas.case.edu/) for all registered students.
+3. Review [the course website](https://thomaselove.github.io/432/) and this syllabus. 
+4. Complete the [Welcome to 432 Survey](http://bit.ly/432-2021-welcome-survey) described below.
+
+## "Welcome to 432" Survey 
+
+Please fill out the [Welcome to 432 Survey](http://bit.ly/432-2021-welcome-survey) to help us get to know you a little better.
+
+- Note that you must **log into Google via your CWRU account** in order to access the survey.
+- The survey should take approximately 15 minutes to complete, and we encourage you to complete it as soon as you can.
 
 ## What Do I Need To Buy?
 
-We'll read two books that you need to purchase (combined price is \$18 to \$33):
+We'll read two books that you need to purchase:
 
-- David Spiegelhater *The Art of Statistics: How to Learn from Data*, published in the US by Basic Books in 2019, available [at Amazon, for instance](https://www.amazon.com/Art-Statistics-How-Learn-Data/dp/1541618513), for around \$18 (Kindle) or \$23 (hardcover). The US and UK versions are identical other than the cover and subtitle.
-- Jeffrey Leek, *The Elements of Data Analytic Style*, available at https://leanpub.com/datastyle (minimum price is free, suggested price is $10).
+1. Nate Silver's **The Signal and the Noise**, available [on Amazon](https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but/dp/0143125087) for about $20. 
+    - The 2013 or 2015 edition is sufficient for 432, and either an electronic or paper version is fine. In 2020, Nate added a new preface, which is interesting, but not critical.
+2. Jeff Leek's **How to be a Modern Scientist** available as an ebook [on Leanpub](https://leanpub.com/modernscientist) for a suggested $10.
 
 Everything else is free, and is described in detail in the rest of this syllabus or on the course website.
 
-## "Welcome to 431" Survey 
+## What Software Do I Need to Install?
 
-Most of you did this before class started, but if you haven't, please fill out the [Welcome to 431 Survey](https://bit.ly/431-2020-welcome-survey) at https://bit.ly/431-2020-welcome-survey to help us get to know you a little better.
+[Software installation instructions](https://thomaselove.github.io/432/software_install.html) are available on the course website in the [R and Data section](https://thomaselove.github.io/432/software_install.html). You'll be installing (or updating):
 
-- Note that you must **log into Google via your CWRU account** in order to access the survey.
-- The survey should take 15-20 minutes to complete, and we encourage you to complete it as soon as you can.
+- R (we recommend version 4.0.3 or later)
+- RStudio (we recommend at least version 1.4.1103 or later)
+- several [R packages](https://thomaselove.github.io/432/r_packages.html)
+
+## What Other Connections Do I Need to Make?
+
+To successfully complete the course, you'll need to use the following tools, in addition to those specified above.
+
+1. Your Google account through CWRU, from which you'll access many Google Forms for the course, some additional Google Docs (to obtain lab grades and other feedback) and access to materials Dr. Love cannot share via Github. Dr. Love will share the drive with all registered students.
+2. The [Canvas course management system](https://canvas.case.edu/), where you'll access downloadable Zoom recordings and submit many of our assignments.
+3. The [Piazza course discussion board](https://piazza.com/case/spring2021/pqhs432) for connecting to your fellow classmates, the teaching assistants and Dr. Love at any time to ask and answer questions about the course.
+4. The course Github repository at https://github.com/THOMASELOVE/432-2021 and several related repositories such as https://github.com/THOMASELOVE/432-data. You will also want to get yourself a (free) Github account at https://github.com/join so you can establish a presence online.
+5. The RStudio Community at https://community.rstudio.com/ has been very helpful in the past to some students. You may want to establish an account there, too, to link yourself to the broader community of RStudio users, but this is optional.
+

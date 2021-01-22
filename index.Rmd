@@ -18,11 +18,7 @@ knitr::include_graphics("images/cwru-stacked-logo.jpg")
 
 # Welcome! {-}
 
-This is the Spring 2021 syllabus page for PQHS / CRSP / MPHP 432: Data Science for Biological, Medical and Health Research II, taught by Professor Thomas E. Love. 
-
-```{r foot-fig, echo = FALSE, fig.align = "center", out.width = '80%'}
-knitr::include_graphics("images/432_foot2.PNG")
-```
+This is the Spring 2021 syllabus for PQHS / CRSP / MPHP 432: Data Science for Biological, Medical and Health Research II, taught by Professor Thomas E. Love. 
 
 ## Working With This Document {-}
 
@@ -38,21 +34,25 @@ knitr::include_graphics("images/432_foot2.PNG")
 
 - The course instructor is [Professor Thomas E. Love][Professor Love]. 
   - Email him at **Thomas dot Love at case dot edu** if you have any questions before class.
-- There are eight [teaching assistants][Teaching Assistants] helping with the course this semester.
+- There are eight [teaching assistants][Teaching Assistants] helping with the course this semester. This allows us to provide lots of opportunities for you to [get help in the course][Getting Help with 432].
+- The [Course Calendar](https://thomaselove.github.io/432/calendar.html) provides details on all sessions and deadlines.
 - The course is given on Tuesdays and Thursdays from 1:00 to 2:15 PM Eastern Time, via Zoom, starting on 2021-02-02.
-  - If you are registered for the course, the Zoom link for the first few classes will be made available to you via [Canvas](https://canvas.case.edu) and sent to your CWRU (and preferred) email on Monday 2020-08-24. Subsequent class information is available on Canvas.
-  - Each class is video-recorded, and the recordings are archived on [Canvas](https://canvas.case.edu).
+  - Zoom session information is posted to [Canvas](https://canvas.case.edu).
+  - Each class is video-recorded, and all recordings are archived on [Canvas](https://canvas.case.edu).
 
 ## Course Home Page {-}
 
-The course home page, with links to everything you'll need, is at https://thomaselove.github.io/432/. This page includes links to:
+The course home page, with links to everything you'll need, is at https://thomaselove.github.io/432/. There, you will find:
 
 - The 432 Syllabus (this document)
 - Dr. Love's Course Notes, which serve as the main textbook for the course
-- The [Course Calendar](https://thomaselove.github.io/432/calendar.html), which is the final word for all deadlines and assignments
-    - The Calendar links to materials for each class, including presentation slides, session recordings and announcements
-- Data (and Code) for the course's assignments, presentations, and notes
-- Readings and Supplemental Materials that we'll review during the course
-- Our [Piazza discussion forum](https://piazza.com/case/fall2020/pqhs432/home) for questions and answers.
-- Our [Canvas page](https://canvas.case.edu) for turning in assignments and downloading recordings of our Zoom class sessions.
+- The [Course Calendar](https://thomaselove.github.io/432/calendar.html), which links to materials for each class session and serves as the final word on all deadlines for assignments.
+- Details on all [assignments](https://thomaselove.github.io/432/index.html), including minute papers, labs, quizzes and projects.
+- [Data (and Code)](https://thomaselove.github.io/432/data_index.html) for the course's assignments, presentations, and notes, as well as [instructions for installing software](https://thomaselove.github.io/432/software_install.html).
+- Our [Piazza discussion forum](https://piazza.com/case/spring2021/pqhs432) for questions and answers. 
+- Our [Canvas page](https://canvas.case.edu) for turning in assignments and accessing Zoom sessions and recordings.
+
+```{r foot-fig, echo = FALSE, fig.align = "center", out.width = '80%'}
+knitr::include_graphics("images/432_foot2.PNG")
+```
 

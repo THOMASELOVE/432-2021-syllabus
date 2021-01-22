@@ -1,6 +1,6 @@
 # Teaching Assistants
 
-Most of this year's stellar group of teaching assistants has been in your shoes - they've taken the course in the past, and they enjoyed it enough to come back for more. They are volunteering their precious time and energy to help make the course happen, and we couldn't be more delighted to welcome you to the course. All office hours and all teaching assistant work will be done remotely.
+Most of this year's stellar group of teaching assistants have taken the course in the past, and they enjoyed it enough to come back for more. They are volunteering their precious time and energy to help make the course happen, and we couldn't be more delighted to welcome you to the course. All office hours and all teaching assistant work will be done remotely.
 
 There is a lot to learn in this class. Don't suffer in silence - talk to us! As mentioned earlier, **you shouldn't spend more than 15 minutes struggling with anything in this class without asking for help.**
 
@@ -83,4 +83,6 @@ knitr::include_graphics("images/Siyu_Wang.jpg")
 
 Siyu Wang is in her second year in the M.S. program in Biomedical Engineering. She is an international student from China, and she completed her Bachelor's work in Biomedical Engineering in Shanghai Jiao Tong University. She has previously completed 431 and 432 coursework and learned many skills, which are very helpful for her project at Cleveland Clinic. Siyu likes cooking, reading, watching movies and photographing. 
 
+## TA office hours
 
+Details on accessing and scheduling for TA office hours will appear here and elsewhere before our first class. TA office hours will begin after Class 02.
