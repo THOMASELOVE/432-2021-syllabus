@@ -6,6 +6,14 @@ knitr::include_graphics("images/cwru-stacked-logo.jpg")
 
 Case Western Reserve University has a wide range of student support resources on campus. These resources can assist students both in the classroom and outside of it. CWRU offers these resources to enrich and enhance each student's academic experience and to create an environment that encourages personal growth and development. We provide a detailed list (also available at the website of the Department of Population and Quantitative Health Sciences) below. For each resource, we also list contact information including a website where you can learn more. Please take advantage of these resources.
 
+## CWRU CARE (NEW Virtual Mental Health option)
+
+A new initiative, [CWRU Care](https://case.edu/studentlife/healthcounseling/counseling-services/cwru-care-virtual-counseling-visits), is meant to help ensure that students living beyond our state can access mental health care from providers familiar with university students' unique needs. More, it will increase students' opportunities to connect quickly with counselors regarding specific issues-and, we hope, provide additional flexibility in scheduling regular sessions. As with services our university counseling staff provide, your sessions and interactions with CWRU Care are free of charge to you.
+
+Those who live in Ohio continue to have the option to access care through [University Counseling Services](https://case.edu/studentlife/healthcounseling/counseling-services), but also are eligible to use [CWRU Care](https://case.edu/studentlife/healthcounseling/counseling-services/cwru-care-virtual-counseling-visits). Those outside Ohio can contact our counseling services 24/7 at 216.368.5872 either for emergency care or to seek assistance in identifying a qualified provider where they live. Alternatively, they can connect with providers using CWRU Care. More information is [available here about CWRU Care](https://case.edu/studentlife/healthcounseling/counseling-services/cwru-care-virtual-counseling-visits). 
+
+Students living abroad are only able to access short-term assistance (e.g. when connected quickly with a provider to talk that day about an issue) through CWRU Care. Regularly scheduled sessions are not an option for those outside the U.S.
+
 ## School of Graduate Studies
 
 - Location: 203 Tomlinson Hall
