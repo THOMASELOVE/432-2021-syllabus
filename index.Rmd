@@ -45,7 +45,7 @@ This is the Spring 2021 syllabus for PQHS / CRSP / MPHP 432: Data Science for Bi
 The course home page, with links to everything you'll need, is at https://thomaselove.github.io/432/. There, you will find:
 
 - The 432 Syllabus (this document)
-- Dr. Love's Course Notes, which serve as the main textbook for the course
+- Dr. Love's [Course Notes](https://thomaselove.github.io/432-notes/), which serve as the main textbook for the course
 - The [Course Calendar](https://thomaselove.github.io/432/calendar.html), which links to materials for each class session and serves as the final word on all deadlines for assignments.
 - Details on all [assignments](https://thomaselove.github.io/432/index.html), including minute papers, labs, quizzes and projects.
 - [Data (and Code)](https://thomaselove.github.io/432/data_index.html) for the course's assignments, presentations, and notes, as well as [instructions for installing software](https://thomaselove.github.io/432/software_install.html).
