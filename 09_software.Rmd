@@ -47,7 +47,7 @@ You will need access to a computer to do your work for this class, not just an i
 
 - We've made some effort in terms of course requirements to set the bar low. You do not need a state of the art machine, nor should you need any special hardware to run things for this course.
 - You will need a computer, either PC (running Windows 10 would be helpful) or Macintosh (running a reasonably recent OS), but your choice should be determined by your personal preferences and how you believe you will use the machine in your research life. RStudio and R will look and work the same on either a PC or a Macintosh. 
-- We **do not** recommend the use of a Chromebook for 431 or 432.
+- We **do not** recommend the use of a Chromebook for this class.
 - R and RStudio Desktop also run on Linux systems but Dr. Love knows essentially nothing about that. Consult the documentation [at CRAN for R](https://cran.r-project.org/) and [at the download page for RStudio](https://rstudio.com/products/rstudio/download/#download).
 
 ## Why do we teach R, instead of SPSS or SAS or whatever, in 431-432? 
@@ -64,7 +64,7 @@ Also, the question of "Why R and not SPSS?" was nicely addressed by Greg Snow in
 
 ## Getting Started With R, RStudio and Tidy Statistics
 
-If you're interested in getting started with the tools you'll be using in 431 before the class gets rolling, the great folks at [RStudio Education](https://education.rstudio.com/learn/beginner/) provide [these 6 ways to begin learning R](https://education.rstudio.com/learn/beginner/). Pick the one that appeals to you, and give it a shot.
+If you're interested in getting started with the tools you'll be using before the class gets rolling, the great folks at [RStudio Education](https://education.rstudio.com/learn/beginner/) provide [these 6 ways to begin learning R](https://education.rstudio.com/learn/beginner/). Pick the one that appeals to you, and give it a shot.
 
 - Note that if you're having trouble installing things, you can still learn a lot about R, RStudio and Data Science basics with the interactive tutorials at https://rstudio.cloud/learn/primers.
 - If you're already a strong coder, and have some R experience, there are also [learning pathways for intermediates at RStudio Education](https://education.rstudio.com/learn/intermediate/) which might be appealing to you.
