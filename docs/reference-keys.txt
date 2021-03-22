@@ -52,6 +52,7 @@ participation
 labs
 a-few-tips-for-early-lab-work
 grading-labs
+late-lab-work-note-new-policy-for-labs-4-6
 calculating-your-overall-lab-grade
 appeal-policy-and-regrades
 quizzes

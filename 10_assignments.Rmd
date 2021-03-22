@@ -80,6 +80,17 @@ Labs are graded by the Teaching Assistants, according to a rubric and answer ske
 For each Lab, we publish a detailed answer sketch (typically at noon on the day after the deadline). By the time grades become available (roughly one week after the deadline) you will also receive the grading rubric, though we sometimes include this with the sketch. Along with the grade, on-time labs will receive modest feedback about the work.
 
 - The five required labs are each due on Mondays at 9 PM Eastern time, as described in the [Calendar](https://thomaselove.github.io/432/calendar.html). 
+
+### Late Lab Work (Note new policy for Labs 4-6)
+
+For **Labs 4-6**, the following policies are in place.
+
+- Labs received **on time** can receive up to 100% of the available points for the lab. We do not penalize lab work received within one hour of the deadline.
+- Labs received more than one hour but less than 12 hours after the deadline for Labs 4-6 will receive a late penalty of 20% of available points on the lab.
+- Labs received more than 12 hours after the deadline for Labs 4-6 will not be graded.
+
+For **Labs 1-3**, the following policies were in place.
+
 - Labs received **on time** can receive up to 100% of the available points for the lab. We do not penalize lab work received within one hour of the deadline (so, by Monday at 10 PM Eastern.)
 - Labs received more than one hour after the deadline but before noon on the following day (Tuesday) will receive a late penalty of 10% of available points on the lab.
 - Lab submissions received after the answer sketch is published at noon Tuesday but within one week of the deadline will receive a late penalty of 25% of available points.
